@@ -1,2 +1,2 @@
-
-<iframe id="afdian_leaflet_askdaddy" src="https://ifdian.net/leaflet?slug=askdaddy" width="100%" scrolling="no" height="200" frameborder="0"></iframe><script>document.body.clientWidth< 700 ? document.getElementById("afdian_leaflet_askdaddy").width = "100%" : document.getElementById("afdian_leaflet_askdaddy").width = "640"</script>
+## 已入驻爱发电
+<a href="https://ifdian.net/a/askdaddy"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a>
